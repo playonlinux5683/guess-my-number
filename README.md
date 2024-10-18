@@ -18,8 +18,6 @@ There is no wrong answer. Just be yourself and ***HAVE FUN*** !!!!
 
 ## Interaction with the API
 
-Here’s the markdown code for the curl commands you provided:
-
 #### Register a user
 ```bash
 curl -X POST "http://localhost:8080/api/users/register?username=john_doe&password=securePass123"
